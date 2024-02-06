@@ -1,0 +1,8 @@
+"Why are you interested in taking CMSC320?":
+
+I haven't taken any data science courses for my CS major yet so I felt that taking this elective
+would be a good idea to get introduced to what Data Science is an its application in the real world.
+I am also pursuing a data science minor and since CMSC320/DATA320 is a required course this class would
+fit perfectly for my major and minor requirements. Lastly, I think data science is tied closely with 
+machine learning and artificial intelligence which is also something I am interested in. Thus, this class
+is a perfect elective to take this semester.
